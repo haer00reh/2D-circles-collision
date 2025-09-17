@@ -15,7 +15,10 @@ void pull_toward_cursor(int target_x, int target_y, float force)
 
 	dist = sqrtf(dx*dx + dy*dy);
 	if (dist == 0)
+	{
+		i++;
 		continue;
+	}
 
 	balls[i].x += (dx / dist) * force;
 	balls[i].y += (dy / dist) * force;
