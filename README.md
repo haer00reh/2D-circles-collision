@@ -22,5 +22,5 @@ click anywhere inside the windows with the cursor to generate circles.
 while holding "p" the circles will follow the cursor location on the window.
 ![Demo](media/pull.gif)
 
-# soon...
-i will make a simple wirte-up about this project in notion, explaining everything and giving sources that i learned from, i might improve the project or code an even advanced one in the future.
+# learn more
+[click here](https://garrulous-appeal-80f.notion.site/2D-circles-collision-2712db0d585c80939b29ced4f1cd196f?source=copy_link)
