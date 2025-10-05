@@ -13,6 +13,9 @@ For Fedora and other Red Hat-based systems using:
 For Debian-based systems (Ubuntu, Mint...):
 `sudo apt-get install libsdl2-dev`
 
+For Arch linux:
+`sudo pacman -S sdl2`
+
 cd into the repository and run `make` and the Makefile will compile everything, after that just run the executable `./collisions`
 
 # features.
